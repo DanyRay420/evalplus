@@ -1,3 +1,4 @@
 fschat
 openai
 rich
+gradio>=4.13.0 # not directly required, pinned by Snyk to avoid a vulnerability
