@@ -1,3 +1,7 @@
 fschat
 openai
 rich
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
+python-multipart>=0.0.22 # not directly required, pinned by Snyk to avoid a vulnerability
+sentencepiece>=0.2.1 # not directly required, pinned by Snyk to avoid a vulnerability
+torch>=2.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
